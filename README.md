@@ -6,7 +6,7 @@
 </details>
 
 <details>
-<summary>A project by Timothy Ofie and Oluwagbemiro Joshua</summary>
+<summary>A project by Timothy Ofie and Olagbemiro Joshua</summary>
 </details>
 
 ## Resource
@@ -98,3 +98,4 @@
 ## Authors
 
 - Timzblue12
+- Joshua-mayor
