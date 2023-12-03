@@ -2,8 +2,11 @@
 
 <details>
 <summary>The Gates of Shell by Spencer Cheng, featuring Julien Barbier</summary>
-<summary>Project by Timothyy Ofie and Oluwagbemiro Joshua</summary>
 <img src="https://user-images.githubusercontent.com/29776892/129798799-6f730688-8728-49ed-b01b-13bec0fa2896.jpeg">
+</details>
+
+<details>
+<summary>A project by Timothy Ofie and Oluwagbemiro Joshua</summary>
 </details>
 
 ## Resource
